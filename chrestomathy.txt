@@ -1,0 +1,6 @@
+0x00 - ADD  A, XX (length 2)
+0x01 - LD   A, XX (length 2)
+0x02 - PUSH A     (length 1)
+0x03 - POP  A     (length 1)
+0x04 - PUSH XX    (length 1)
+0x99 - END        (length 1)
